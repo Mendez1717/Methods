@@ -11,7 +11,7 @@ namespace Methods
             char option;
             Console.Write("Enter the first number:  ");
             Num1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the second line:  ");
+            Console.Write("Enter the second number:  ");
             Num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Main Menu");
             Console.WriteLine("1. Addition");
